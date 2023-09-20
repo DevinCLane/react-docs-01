@@ -1,3 +1,8 @@
+# React docs playground
+
+Herein I'm playing around with some ideas from the [React docs](https://react.dev/learn). The first iteration includes tracking state in some buttons. 
+
+---
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
